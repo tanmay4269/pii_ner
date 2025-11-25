@@ -81,3 +81,6 @@ Your task in the assignment is to modify the model and training code to improve 
 
 ## Reproducing
 Just run `./04.run.sh &> >(tee out.log)` for reproducing the final state of this project
+
+## Trained Model Weights
+https://drive.google.com/drive/folders/1spQNCnS6RMXkfrnI9jRci7td_uyqrPAg?usp=sharing
