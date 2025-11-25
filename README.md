@@ -78,3 +78,6 @@ Your task in the assignment is to modify the model and training code to improve 
 | p95 Latency | ~8ms | ~8ms ✅ |
 
 📄 **See [`changes.md`](./changes.md) for detailed breakdown of all changes and phase-by-phase results.**
+
+## Reproducing
+Just run `./04.run.sh &> >(tee out.log)` for reproducing the final state of this project
